@@ -1,0 +1,3 @@
+private static sum3(int a, int b, int c)
+   sum (a + b + c);
+}
